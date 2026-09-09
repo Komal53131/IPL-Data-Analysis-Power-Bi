@@ -3,7 +3,7 @@
 This repository contains an interactive **Power BI Data Analytics Dashboard** designed to analyze historical Indian Premier League (IPL) data from 2008 to 2025. The project transforms complex ball-by-ball and match dataset into actionable visual insights, focusing on match statistics, team performances, toss analysis, and player achievements (Orange & Purple Cap analysis).
 ---
 ## 📸 Dashboard Preview
-![IPL Analysis Dashboard](dashboard_preview.png)
+!IPL Analysis Dashboard.png
 ---
 ## 🎯 Key Business & Analytical Insights
 * **Toss Decision & Match Impact:** Analyzed win percentages based on toss decisions (Batting vs. Fielding first across seasons).
