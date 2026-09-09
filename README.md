@@ -18,5 +18,4 @@ Key DAX measures and custom aggregations implemented in this report:
   ```dax
 Total Boundaries = CALCULATE(COUNT(ball_by_ball[batsman_runs]), ball_by_ball[batsman_runs] IN {4, 6})
 Total Wickets = CALCULATE(COUNT(ball_by_ball[is_wicket]), ball_by_ball[is_wicket] = 1)
-**Next Step:**
-README editor me pura pura text `Ctr
+
